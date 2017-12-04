@@ -4,7 +4,7 @@
 关键词：
 `递归` `多级菜单` `复选` 
 
-###目标
+### 目标
 1.显示多级菜单，默认显示一级.   
 2.可以通过点击有子级的行展开菜单  
 3.通过复选框，改变选中状态。状态有全选、半选、未选中  
@@ -12,7 +12,7 @@
 
 ![img](https://github.com/YuTongHon/MultilevelMenuWithCheckbox/blob/master/menu.gif)
 
-####数据处理
+#### 数据处理
 1.首先根Datasource进行数据处理   
 2.生成一个handler:MultilevelDataHandler  
 将数据处理逻辑在handle处理，将数据处理隔离  
